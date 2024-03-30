@@ -80,6 +80,8 @@ function App() {
   return (
     <>
       <Navbar />
+
+      
       <div className="md:container md:w-1/2 content-center box-border mx-auto bg-violet-100 p-5 my-5 rounded-xl">
         <div className="testingDiv flex flex-col">
           <h1 className="font-bold text-center text-xl">
